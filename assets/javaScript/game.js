@@ -11,7 +11,7 @@ var userLetter = [];
       
 document.getElementById("user-submit").onclick = function(){ 
    
-    if(userLetter.length==10){
+    if(userLetter.length==11){
          return alert("you lost !");
         
 }
